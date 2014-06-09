@@ -9,6 +9,6 @@ import UIKit
 
 extension UIView {
     func centerHorizontally(parentWidth: Double) {
-        frame = CGRect(x:floor((parentWidth - frame.size.width) / 2.0), y:frame.origin.y, width:frame.size.width, height:frame.size.height)
+        frame = CGRect(x: floor((parentWidth - frame.size.width) / 2.0), y: frame.origin.y, width: frame.size.width, height: frame.size.height)
     }
 }
