@@ -1,1 +1,1 @@
-Moved to [Swift UIKit Extension](https://github.com/higepon/Swift-UIKit-Extensions)
+Moved to [Swift UIKit Extensions](https://github.com/higepon/Swift-UIKit-Extensions)
